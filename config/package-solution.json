@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Physician Portal MainPage Cards",
+    "id": "24b4c9f4-c8d9-443b-bb06-19404a1298c0",
+    "version": "1.0.0.12",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "iconPath": "images/bcappicons.png"
+  },
+  "paths": {
+    "zippedPackage": "solution/pp-mainpage-webpart.sppkg"
+  }
+}
